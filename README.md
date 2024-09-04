@@ -24,7 +24,7 @@ Veteran with nine years of experience serving in the Brazilian Army as a Sergean
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<img src="https://img.freepik.com/free-vector/ai-technology-microchip-background-vector-digital-transformation-concept_53876-117808.jpg?t=st=1725414887~exp=1725418487~hmac=a23fe2e2111773ae23c944f6e374d6b788f25f010e4e4b0d4a206875dea98bcc&w=740" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://img.freepik.com/free-vector/ai-technology-microchip-background-vector-digital-transformation-concept_53876-117808.jpg?t=st=1725414887~exp=1725418487~hmac=a23fe2e2111773ae23c944f6e374d6b788f25f010e4e4b0d4a206875dea98bcc&w=740" min-width="220px" max-width="220px" width="220px" align="right">
 
 #### Secondary Stack:
 
