@@ -76,13 +76,4 @@ Veteran with nine years of experience serving in the Brazilian Army as a Sergean
 <a href="https://www.linkedin.com/in/ramonsouzarss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
-
-<a href="https://github.com/ramonsouzarss/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/ramonsouzarss/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/ramonsouzarss/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2483F8&height=120&section=footer"/>
