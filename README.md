@@ -1,13 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2483F8&height=120&section=header"/>
 
-# Data Wizard | Python Developer | Continuous Learner 🚀
-
----
-
 ## About Me
 
-I’m Ramon Souza Santos, 
+I’m Ramon Souza, 
 
+Data Wizard | Python Developer | Continuous Learner 🚀
 Pythonist diving into the field of Data Science and Software Engineering. Currently, I'm working as Data Analyst and Business Intelligence consultant for third-sector organizations.
 I am passionate about data analysis, cloud computing, and good software development practices. I’m always learning and eager to apply my skills in solving real-world problems.
 Veteran with nine years of experience serving in the Brazilian Army as a Sergeant. 
