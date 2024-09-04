@@ -9,7 +9,7 @@ Data Wizard | Python Developer | Continuous Learner 👓📚🚀
 - 🐍 Pythonist diving into the field of Data Science and Software Engineering. 
 - 📈 Currently, I'm working as Data Analyst and Business Intelligence consultant for third-sector organizations. 
 - ☕ Passionate about data analysis, cloud computing, and good software development practices. I’m always learning and eager to apply my skills in solving real-world problems.
-- 🪖 Veteran with nine years of experience serving in the Brazilian Army as a Sergeant. 
+- 🪖 Veteran with nine years of experience serving as a Sergeant in the Brazilian Army. 
 
 ---
 
