@@ -4,11 +4,11 @@
 
 I’m Ramon Souza, 
 
-Data Wizard | Python Developer | Continuous Learner 👓📚🚀
+Data Scientist | Developer | Continuous Learner 👓📚🚀
 <br><br>
-- 🐍 Pythonist diving into the field of Data Science and Software Engineering. 
-- 📈 Currently, I'm working as Data Analyst and Business Intelligence consultant for third-sector organizations. 
-- ☕ Passionate about data analysis, cloud computing, and good software development practices. I’m always learning and eager to apply my skills in solving real-world problems.
+- 🐍 Pythonist | Data Science and Software Engineering. 
+- 📈 Data Analyst and Business Intelligence consultant. 
+- ☕ Passionate about data-driven solutions, cloud computing, and good software development practices.
 - 🪖 Veteran with nine years of experience serving as a Sergeant in the Brazilian Army. 
 
 ---
@@ -59,11 +59,11 @@ Data Wizard | Python Developer | Continuous Learner 👓📚🚀
 
 ## Certifications and Courses:
 
-- **Santander Coders 2024 Data Science** - Ada Tech *(In Progress)*
+- **Azure Databricks** - Digital Innovation One (2025)
+- **Santander Coders 2024 Data Science** - Ada Tech (2024)
 - **AWS Cloud Practitioner Certified** - Amazon Web Services (2024)
 - **Google Data Analytics Professional Certificate** (2023)
-- **AWS re/Start Program** - Escola da Nuvem (2024)
-- **Data Science with Python** - Data Science Academy (2022)
+- **Python for Data Science** - Data Science Academy (2022)
 - **CS50** - Harvard University (2022)
 
 ---
